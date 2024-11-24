@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Indicators\bin\Debug\net8.0\CryptoAnalysisApp.Indicators.exe
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Indicators\bin\Debug\net8.0\CryptoAnalysisApp.Indicators.deps.json
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Indicators\bin\Debug\net8.0\CryptoAnalysisApp.Indicators.runtimeconfig.json
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Indicators\bin\Debug\net8.0\CryptoAnalysisApp.Indicators.dll
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Indicators\bin\Debug\net8.0\CryptoAnalysisApp.Indicators.pdb
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Indicators\obj\Debug\net8.0\CryptoAnalysisApp.Indicators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Indicators\obj\Debug\net8.0\CryptoAnalysisApp.Indicators.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Indicators\obj\Debug\net8.0\CryptoAnalysisApp.Indicators.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Indicators\obj\Debug\net8.0\CryptoAnalysisApp.Indicators.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Indicators\obj\Debug\net8.0\CryptoAnalysisApp.Indicators.dll
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Indicators\obj\Debug\net8.0\refint\CryptoAnalysisApp.Indicators.dll
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Indicators\obj\Debug\net8.0\CryptoAnalysisApp.Indicators.pdb
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Indicators\obj\Debug\net8.0\CryptoAnalysisApp.Indicators.genruntimeconfig.cache
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Indicators\obj\Debug\net8.0\ref\CryptoAnalysisApp.Indicators.dll

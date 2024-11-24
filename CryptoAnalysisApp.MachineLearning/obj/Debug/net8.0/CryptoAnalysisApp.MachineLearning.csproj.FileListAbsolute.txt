@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.MachineLearning\bin\Debug\net8.0\CryptoAnalysisApp.MachineLearning.exe
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.MachineLearning\bin\Debug\net8.0\CryptoAnalysisApp.MachineLearning.deps.json
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.MachineLearning\bin\Debug\net8.0\CryptoAnalysisApp.MachineLearning.runtimeconfig.json
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.MachineLearning\bin\Debug\net8.0\CryptoAnalysisApp.MachineLearning.dll
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.MachineLearning\bin\Debug\net8.0\CryptoAnalysisApp.MachineLearning.pdb
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.MachineLearning\obj\Debug\net8.0\CryptoAnalysisApp.MachineLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.MachineLearning\obj\Debug\net8.0\CryptoAnalysisApp.MachineLearning.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.MachineLearning\obj\Debug\net8.0\CryptoAnalysisApp.MachineLearning.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.MachineLearning\obj\Debug\net8.0\CryptoAnalysisApp.MachineLearning.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.MachineLearning\obj\Debug\net8.0\CryptoAnalysisApp.MachineLearning.dll
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.MachineLearning\obj\Debug\net8.0\refint\CryptoAnalysisApp.MachineLearning.dll
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.MachineLearning\obj\Debug\net8.0\CryptoAnalysisApp.MachineLearning.pdb
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.MachineLearning\obj\Debug\net8.0\CryptoAnalysisApp.MachineLearning.genruntimeconfig.cache
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.MachineLearning\obj\Debug\net8.0\ref\CryptoAnalysisApp.MachineLearning.dll

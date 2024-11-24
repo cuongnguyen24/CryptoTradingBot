@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Core\bin\Debug\net8.0\CryptoAnalysisApp.Core.exe
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Core\bin\Debug\net8.0\CryptoAnalysisApp.Core.deps.json
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Core\bin\Debug\net8.0\CryptoAnalysisApp.Core.runtimeconfig.json
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Core\bin\Debug\net8.0\CryptoAnalysisApp.Core.dll
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Core\bin\Debug\net8.0\CryptoAnalysisApp.Core.pdb
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Core\obj\Debug\net8.0\CryptoAnalysisApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Core\obj\Debug\net8.0\CryptoAnalysisApp.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Core\obj\Debug\net8.0\CryptoAnalysisApp.Core.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Core\obj\Debug\net8.0\CryptoAnalysisApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Core\obj\Debug\net8.0\CryptoAnalysisApp.Core.dll
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Core\obj\Debug\net8.0\refint\CryptoAnalysisApp.Core.dll
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Core\obj\Debug\net8.0\CryptoAnalysisApp.Core.pdb
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Core\obj\Debug\net8.0\CryptoAnalysisApp.Core.genruntimeconfig.cache
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Core\obj\Debug\net8.0\ref\CryptoAnalysisApp.Core.dll
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Core\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Core\obj\Debug\net8.0\CryptoAnalysisApp.Core.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CryptoTradingBot\CryptoAnalysisApp.Core\obj\Debug\net8.0\CryptoAn.3678A715.Up2Date
